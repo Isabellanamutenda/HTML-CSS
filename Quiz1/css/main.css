@@ -1,0 +1,38 @@
+body{
+	background-color:purple;
+	color:lightblue;
+
+}
+	h1{
+		color:blue;
+		font-size:25px;
+		text-align:center;
+
+	}
+	p{
+		color:pink;
+		text-align:centre;
+		font-style: oblique;
+		border-style: double;
+		border-color: yellow;
+		border-top-style: dotted;
+        border-right-style: solid;
+        border-bottom-style: dotted;
+        border-left-style: solid;
+        border: 5px solid yellow;
+        margin-top: 100px;
+        margin-bottom: 100px;
+        margin-right: 150px;
+        margin-left: 80px;
+	}
+	ul{
+      list-style-type: square;
+      border-style: dashed;
+      border-color: green; 
+	}
+	ol{
+		list-style-type: upper-roman;
+		 border-style: dotted;
+		 border-color: orange;
+	}
+	
